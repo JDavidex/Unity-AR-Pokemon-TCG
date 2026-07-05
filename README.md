@@ -5,11 +5,11 @@
 # 🎉 ¡Feliz 30 Aniversario, Pokémon! 🎉
 
 **Desde 1996, Pokémon ha unido generaciones enteras alrededor del mundo.**  
-Treinta años de aventuras, batallas y amistad. Gracias por todo, Pokémon. 💛
+Treinta años de aventuras, batallas y amistad. Gracias por todo, Pokémon.
 
 ---
 
-## 🌟 Sobre este proyecto
+## ◇ Sobre este proyecto
 
 Como homenaje personal a esta saga tan especial, desarrollé **AR: Pokemon TCG**, una experiencia de **Realidad Aumentada** hecha en **Unity** que cobra vida al escanear cartas reales del TCG de Pokémon.
 
@@ -17,7 +17,7 @@ Como homenaje personal a esta saga tan especial, desarrollé **AR: Pokemon TCG**
 
 ---
 
-## 📸 Vista previa
+## ◇ Vista previa
 
 **Diseño de las cartas**
 
@@ -31,7 +31,7 @@ Como homenaje personal a esta saga tan especial, desarrollé **AR: Pokemon TCG**
 
 ---
 
-## ✨ ¿Cómo funciona?
+## ◇ ¿Cómo funciona?
 
 Al apuntar la cámara del dispositivo hacia una de las **4 cartas físicas**, la app reconoce la imagen y superpone en tiempo real el Pokémon correspondiente en **3D**, con animaciones e interacciones únicas para cada uno:
 
@@ -44,7 +44,7 @@ Al apuntar la cámara del dispositivo hacia una de las **4 cartas físicas**, la
 
 ---
 
-## 🛠️ Tecnologías
+## ◇ Tecnologías
 
 | Herramienta | Uso |
 |---|---|
